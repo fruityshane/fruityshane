@@ -1,7 +1,2 @@
-- 👋 Hi, I’m fruityshane developer
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
-- 😄 
-- ⚡ 
+- 👋 Hi there, we are fruityshane developer, @komaraip and @nowll
+- 👀 This is source code for our business project
