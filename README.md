@@ -1,2 +1,2 @@
-- 👋 Hi there, we are fruityshane developer, @komaraip and @nowll
+- 👋 Hi there, we are fruityshane developer, @komaraip, @nowll and @mousaayesh
 - 👀 This is source code for our business project
